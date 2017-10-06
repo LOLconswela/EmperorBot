@@ -1,0 +1,14 @@
+{
+  "name": "empire",
+  "version": "1.0.0",
+  "description": "EmpireBot",
+  "main": "index.js", empire
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@Supreme#7842",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
